@@ -1,0 +1,8 @@
+# Code for PTZ_ML_Human_Project
+
+This folder contains all scripts and code used to analyze the behavioral and machine learning data presented in our manuscript:
+
+**"Human Annotation vs. Machine Learning Models: Optimizing Zebrafish Behavioral Classification for Seizure Analysis"**
+
+For reproducibility, the code is organized by experiment, with documentation in each script.
+
