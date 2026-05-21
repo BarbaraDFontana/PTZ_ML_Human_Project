@@ -1,10 +1,12 @@
 # PTZ_ML_Human_Project
 
-This repository contains all datasets, scripts, and resources used in the manuscript:
+Reproducible machine learning workflow for behavioral seizure classification using human-annotated zebrafish datasets in translational neuroscience research.
 
-**"Human Annotation vs. Machine Learning Models: Optimizing Zebrafish Behavioral Classification for Seizure Analysis"**  
-*Fontana et al., 2026*
+This repository contains datasets, scripts, and analytical workflows associated with the manuscript:
 
+"Human Annotation vs. Machine Learning Models: Optimizing Zebrafish Behavioral Classification for Seizure Analysis"
+
+Fontana et al., 2026
 ---
 
 ## 📄 Project Overview
