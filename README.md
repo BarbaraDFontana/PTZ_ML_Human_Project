@@ -6,7 +6,7 @@ This repository contains datasets, scripts, and analytical workflows associated 
 
 "Human Annotation vs. Machine Learning Models: Optimizing Zebrafish Behavioral Classification for Seizure Analysis"
 
-Fontana et al., 2026
+Fontana et al., 2026 ( doi: 10.1016/j.neuroscience.2025.01.048)
 ---
 
 ## 📄 Project Overview
